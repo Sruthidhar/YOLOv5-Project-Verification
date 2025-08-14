@@ -1,0 +1,11 @@
+# install torch separately with official index URL
+torchvision==0.16.0
+opencv-python
+matplotlib
+numpy
+pillow
+PyYAML
+tqdm
+seaborn
+scipy
+pandas
